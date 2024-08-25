@@ -1,0 +1,69 @@
+# Flutter/Dart/Pub related
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+/build/
+.cocoapods/
+.flutter/
+.vscode/
+.idea/
+*.iml
+
+# Android related
+android/.gradle/
+android/app/build/
+android/app/*.iml
+android/local.properties
+android/.idea/
+android/captures/
+android/gradle/wrapper/gradle-wrapper.properties
+android/gradle.properties
+
+# iOS related
+ios/Flutter/.last_build_id
+ios/Pods/
+ios/Runner.xcworkspace/
+ios/build/
+ios/.symlinks/
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/ServiceDefinitions.json
+ios/Flutter/Generated.xcconfig
+
+# Web related
+web/manifest.json
+web/firebase.json
+
+# macOS related
+macos/Flutter/ephemeral/
+macos/Pods/
+macos/build/
+macos/Flutter/GeneratedPluginRegistrant.swift
+
+# Linux related
+linux/flutter/ephemeral/
+linux/build/
+
+# Windows related
+windows/flutter/ephemeral/
+windows/build/
+
+# Other files
+*.log
+*.lock
+*.tmp
+*.bak
+*.swp
+.DS_Store
+*.apk
+*.ipa
+*.jks
+*.keystore
+*.hprof
+
+# Coverage related files
+coverage/
+.dart_tool/
