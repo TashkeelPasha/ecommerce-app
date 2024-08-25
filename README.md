@@ -13,6 +13,10 @@ This is a Flutter-based e-commerce application that uses Firebase Authentication
 - Responsive UI for both Android and iOS
 
 
+![image](https://github.com/user-attachments/assets/9705a210-f4cf-485b-89ef-6598c742d09a)
+
+
+
 
 
 https://github.com/user-attachments/assets/a970b41c-2c78-4b3b-b1a0-4a119ac45358
