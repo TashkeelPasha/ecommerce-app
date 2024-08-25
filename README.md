@@ -15,6 +15,10 @@ This is a Flutter-based e-commerce application that uses Firebase Authentication
 
 
 
+https://github.com/user-attachments/assets/a970b41c-2c78-4b3b-b1a0-4a119ac45358
+
+
+
 
 ## Technologies
 
