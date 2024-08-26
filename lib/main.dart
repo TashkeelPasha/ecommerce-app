@@ -26,7 +26,7 @@ class MyApp extends StatelessWidget {
           ChangeNotifierProvider(create: (_) => FavoriteProvider()),
         ],
         child: MaterialApp(
-          title: 'Flutter Demo',
+          title: 'Ecommerce App By TashkeelPasha',
           debugShowCheckedModeBanner: false,
           theme: ThemeData(
             colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
